@@ -1,3 +1,4 @@
+<<<<<<< HEAD
          ___        ______     ____ _                 _  ___  
         / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
        / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
@@ -102,3 +103,7 @@ Kode latihan python untuk kelas IDJAK127
 
 12. Check your uploaded code in GitHub. Happy coding! If you encounter any issues, please drop your question in the whatsapp group and I will answer as soon as possible 😊❤️💡
    
+=======
+# restart-2025-idjak127
+Kode latihan python program aws re/Start
+>>>>>>> 9c9e632f308f1f23b4f3e4b88965694eec9b4f0d
